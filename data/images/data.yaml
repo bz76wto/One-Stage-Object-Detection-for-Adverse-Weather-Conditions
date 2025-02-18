@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['bike', 'bus', 'car', 'motor', 'person', 'rider', 'truck']
+
+roboflow:
+  workspace: eastsky
+  project: bdd100k-e3s18
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/eastsky/bdd100k-e3s18/dataset/1
