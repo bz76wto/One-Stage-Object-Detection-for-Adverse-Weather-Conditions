@@ -1,0 +1,6 @@
+train: /home/yushen/DAWN/SF2_new/test/images
+val: /home/yushen/DAWN/SF2_new/train/images
+
+
+nc: 7
+names: ['person', 'bicycle', 'car', 'motorcycle', 'bus', 'cyclist','truck']

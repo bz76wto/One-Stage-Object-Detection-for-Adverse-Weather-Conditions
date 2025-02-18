@@ -1,0 +1,5 @@
+train: /data/cadc_yolo/images/train
+val: /data/cadc_yolo/images/val
+
+nc: 7
+names: ['Car', 'Truck', 'Pedestrian', 'Traffic_Guidance_Objects', 'Bus', 'Garbage_Containers_on_Wheels', 'Bicycle']
