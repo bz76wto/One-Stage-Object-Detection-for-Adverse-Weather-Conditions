@@ -62,7 +62,7 @@ python val.py --data dataset.yaml --weights best.pt --img 640 --device 0
 This research aims to **bridge the gap** between real-world **adverse weather conditions** and **deep learning-based object detection** for autonomous vehicles. 
 
 ### 🔬 Research Highlights:
-- **Investigation of YOLOv5 and one-stage object detection techniques**.
+- **Investigation of one-stage object detection techniques**.
 - **Evaluation of various lightweight backbones for efficient computation**.
 - **Improved detection in adverse weather using attention-based feature extraction**.
 - **Application of pruning and quantization techniques for real-time deployment**.
